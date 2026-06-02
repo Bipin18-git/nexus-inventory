@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_URL = 'http://127.0.0.1:9090';
+const API_URL = 'https://nexus-inventory-7t9p.onrender.com';
 
 // --- SVGs for a Premium Look (No install needed) ---
 const Icons = {
